@@ -1,0 +1,24 @@
+{
+  "name": "next-js-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabeliwo-suburi/next-js-sandbox.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nabeliwo-suburi/next-js-sandbox/issues"
+  },
+  "homepage": "https://github.com/nabeliwo-suburi/next-js-sandbox#readme",
+  "dependencies": {
+    "next": "^5.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
